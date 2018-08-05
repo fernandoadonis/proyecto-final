@@ -1,0 +1,78 @@
+   #cabecera{
+     font-size: 20px;
+     font-family: arial black;
+     color: #17A589;
+     text-align: center
+ }
+
+  li{
+        
+     background: #EF0F28;
+     display: inline;
+     font-family: arial;
+     padding: 10px;
+     border-radius: 20px;
+     color:EFED0F;
+	
+       }
+            
+      #menu{  
+          text-align: center;
+		 
+ }
+ 
+ 
+         
+           
+       img{
+           border-radius: 10;
+           
+                }
+       #cuerpo{
+           text-align: center;
+           font-size: 25px;
+		   font-size: 2vw;
+		   font-family: arial;
+		   color:#EF0F28
+       }
+       
+       #pie {
+           text-align: center;
+		   background:  #EF0F28;
+           color:EFED0F;
+            font-size: 2vw;
+
+       }   form{
+     
+     width: 800px;
+     background: #EF0F28; 
+     padding: 2px;
+     margin: 0 auto;
+     border: 1px solid black;
+     border-radius: 5px;
+     
+         
+ }  
+ form div {
+     margin-top: 1em;
+     
+ }  
+ label {
+     display: inline-block;
+     width: 200px;
+     text-align: left;
+      
+ }
+ input texaria{
+     width:800px;
+     font-family: arial;
+     font-size: 12px;
+     
+         
+         
+ }
+ textArea{
+     vertical-align: middle; 
+    
+    
+    
